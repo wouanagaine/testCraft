@@ -22,6 +22,38 @@
           }
         },
         "children": [],
+        "id": "07c9d05c-6a2c-4a90-8234-d16557776d27",
+        "type": "set"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "destination": "gdf",
+          "op": {
+            "type": "string",
+            "value": "sfs"
+          }
+        },
+        "children": [],
+        "id": "4db7fd67-a074-4bf3-bb2e-197f89af16f0",
+        "type": "set"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "destination": "gdf",
+          "op": {
+            "type": "string",
+            "value": "sfs"
+          }
+        },
+        "children": [],
         "id": "7dca23b6-854c-4314-a8b2-f948e296552b",
         "type": "set"
       },
@@ -76,6 +108,92 @@
                 "metadata": {
                   "label": ""
                 },
+                "properties": {},
+                "children": [
+                  {
+                    "activated": true,
+                    "metadata": {
+                      "label": ""
+                    },
+                    "properties": {
+                      "destination": "gdf",
+                      "op": {
+                        "type": "string",
+                        "value": "sfs"
+                      }
+                    },
+                    "children": [],
+                    "id": "7da11b17-18a4-4910-a2b9-e329437a6483",
+                    "type": "set"
+                  },
+                  {
+                    "activated": true,
+                    "metadata": {
+                      "label": ""
+                    },
+                    "properties": {
+                      "destination": "gdf",
+                      "op": {
+                        "type": "string",
+                        "value": "sfs"
+                      }
+                    },
+                    "children": [],
+                    "id": "d57134fa-db0c-4a1e-8282-2f013ae3995b",
+                    "type": "set"
+                  },
+                  {
+                    "activated": true,
+                    "metadata": {
+                      "label": ""
+                    },
+                    "properties": {},
+                    "children": [
+                      {
+                        "activated": true,
+                        "metadata": {
+                          "label": ""
+                        },
+                        "properties": {
+                          "destination": "gdf",
+                          "op": {
+                            "type": "string",
+                            "value": "sfs"
+                          }
+                        },
+                        "children": [],
+                        "id": "b93c31a5-0cb6-46d2-999d-2636bc7615e4",
+                        "type": "set"
+                      },
+                      {
+                        "activated": true,
+                        "metadata": {
+                          "label": ""
+                        },
+                        "properties": {
+                          "destination": "gdf",
+                          "op": {
+                            "type": "string",
+                            "value": "sfs"
+                          }
+                        },
+                        "children": [],
+                        "id": "71bd5aa2-97b9-4e6c-8021-52e8e086df0e",
+                        "type": "set"
+                      }
+                    ],
+                    "id": "337b956d-d7a9-4eec-8fc5-2c92c70be933",
+                    "type": "sequence"
+                  }
+                ],
+                "id": "1a7d6b5b-9bf9-4224-936b-b66aeb2274b8",
+                "type": "sequence"
+              },
+              {
+                "activated": true,
+                "metadata": {
+                  "label": ""
+                },
                 "properties": {
                   "destination": "gdf",
                   "op": {
@@ -106,138 +224,10 @@
             ],
             "id": "bbf28cbd-2273-4731-beab-45c0a52a7781",
             "type": "sequence"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "destination": "gdf",
-              "op": {
-                "type": "string",
-                "value": "sfs"
-              }
-            },
-            "children": [],
-            "id": "7ace01a7-33f6-4b97-bc99-f94e8c1343fe",
-            "type": "set"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "destination": "gdf",
-              "op": {
-                "type": "string",
-                "value": "sfs"
-              }
-            },
-            "children": [],
-            "id": "170f516e-3b18-4faa-adb3-91a7497bb7fa",
-            "type": "set"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "destination": "gdf",
-              "op": {
-                "type": "string",
-                "value": "sfs"
-              }
-            },
-            "children": [],
-            "id": "d466853b-47f3-496d-8efd-2ce2e8a85c20",
-            "type": "set"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "destination": "gdf",
-              "op": {
-                "type": "string",
-                "value": "sfs"
-              }
-            },
-            "children": [],
-            "id": "2786e141-c9fc-4bd2-8a39-e400039c3eaa",
-            "type": "set"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "destination": "gdf",
-              "op": {
-                "type": "string",
-                "value": "sfs"
-              }
-            },
-            "children": [],
-            "id": "c6c12d70-3449-4a40-b4ce-c63aeec22373",
-            "type": "set"
           }
         ],
         "id": "ee211ded-64b6-44bb-abc8-9f20feca8cfd",
         "type": "sequence"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
-        "properties": {
-          "destination": "gdf",
-          "op": {
-            "type": "string",
-            "value": "sfs"
-          }
-        },
-        "children": [],
-        "id": "9222db6b-4887-43c3-adb3-e8fdfbb8c77f",
-        "type": "set"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
-        "properties": {
-          "destination": "gdf",
-          "op": {
-            "type": "string",
-            "value": "sfs"
-          }
-        },
-        "children": [],
-        "id": "dbf486cf-6a4f-4847-81e1-39e4ce99b94d",
-        "type": "set"
-      },
-      {
-        "activated": true,
-        "metadata": {
-          "label": ""
-        },
-        "properties": {
-          "destination": "gdf",
-          "op": {
-            "type": "string",
-            "value": "sfs"
-          }
-        },
-        "children": [],
-        "id": "e0665627-592c-496a-aaa3-36b553e65e53",
-        "type": "set"
       }
     ],
     "id": "382df474-9ff4-4824-bcc2-e79e053a46db"

@@ -14,69 +14,16 @@
         "metadata": {
           "label": ""
         },
-        "properties": {},
-        "children": [
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "destination": "gdf",
-              "op": {
-                "type": "string",
-                "value": "sfs"
-              }
-            },
-            "children": [],
-            "id": "f495370f-1722-47fe-b770-3657c967694a",
-            "type": "set"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "destination": "gdf",
-              "op": {
-                "type": "string",
-                "value": "sfs"
-              }
-            },
-            "children": [],
-            "id": "728e4eae-18ae-44e4-967f-365676bd7484",
-            "type": "set"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {},
-            "children": [],
-            "id": "6fba9959-0067-474f-bf90-40cf403060e3",
-            "type": "sequence"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "destination": "gdf",
-              "op": {
-                "type": "string",
-                "value": "sfs"
-              }
-            },
-            "children": [],
-            "id": "590cff4d-b828-429a-bdd7-e632f34d66c8",
-            "type": "set"
+        "properties": {
+          "destination": "gdf",
+          "op": {
+            "type": "string",
+            "value": "sfs"
           }
-        ],
-        "id": "5e9f410a-4d75-4604-b2f3-332d68bf1247",
-        "type": "sequence"
+        },
+        "children": [],
+        "id": "7dca23b6-854c-4314-a8b2-f948e296552b",
+        "type": "set"
       },
       {
         "activated": true,
@@ -98,7 +45,7 @@
               }
             },
             "children": [],
-            "id": "4d971a3f-c984-4c41-b52c-9b254955bbd4",
+            "id": "1931049e-4801-43d5-a6be-7d564f3e67fd",
             "type": "set"
           },
           {
@@ -114,53 +61,11 @@
               }
             },
             "children": [],
-            "id": "00a67a42-ef30-4e6c-9e8d-0f378c7cf8b8",
-            "type": "set"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "destination": "gdf",
-              "op": {
-                "type": "string",
-                "value": "sfs"
-              }
-            },
-            "children": [],
-            "id": "a16025dc-9b6f-4501-b7de-280d86e13811",
-            "type": "set"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {},
-            "children": [],
-            "id": "cb2824e5-4634-49a3-b0b2-8af67db0c445",
-            "type": "sequence"
-          },
-          {
-            "activated": true,
-            "metadata": {
-              "label": ""
-            },
-            "properties": {
-              "destination": "gdf",
-              "op": {
-                "type": "string",
-                "value": "sfs"
-              }
-            },
-            "children": [],
-            "id": "3d97b8cf-e71d-44d6-aab5-b303236723bf",
+            "id": "5137293b-0a0b-4691-85a5-95f8df03f032",
             "type": "set"
           }
         ],
-        "id": "e43f1aad-7e51-4ab9-ad31-ae676ef992b5",
+        "id": "ee211ded-64b6-44bb-abc8-9f20feca8cfd",
         "type": "sequence"
       },
       {
@@ -176,7 +81,7 @@
           }
         },
         "children": [],
-        "id": "1931049e-4801-43d5-a6be-7d564f3e67fd",
+        "id": "170f516e-3b18-4faa-adb3-91a7497bb7fa",
         "type": "set"
       }
     ],

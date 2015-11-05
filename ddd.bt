@@ -8,7 +8,178 @@
       "label": ""
     },
     "properties": {},
-    "children": [],
+    "children": [
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {},
+        "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "destination": "gdf",
+              "op": {
+                "type": "string",
+                "value": "sfs"
+              }
+            },
+            "children": [],
+            "id": "f495370f-1722-47fe-b770-3657c967694a",
+            "type": "set"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "destination": "gdf",
+              "op": {
+                "type": "string",
+                "value": "sfs"
+              }
+            },
+            "children": [],
+            "id": "728e4eae-18ae-44e4-967f-365676bd7484",
+            "type": "set"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {},
+            "children": [],
+            "id": "6fba9959-0067-474f-bf90-40cf403060e3",
+            "type": "sequence"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "destination": "gdf",
+              "op": {
+                "type": "string",
+                "value": "sfs"
+              }
+            },
+            "children": [],
+            "id": "590cff4d-b828-429a-bdd7-e632f34d66c8",
+            "type": "set"
+          }
+        ],
+        "id": "5e9f410a-4d75-4604-b2f3-332d68bf1247",
+        "type": "sequence"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {},
+        "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "destination": "gdf",
+              "op": {
+                "type": "string",
+                "value": "sfs"
+              }
+            },
+            "children": [],
+            "id": "4d971a3f-c984-4c41-b52c-9b254955bbd4",
+            "type": "set"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "destination": "gdf",
+              "op": {
+                "type": "string",
+                "value": "sfs"
+              }
+            },
+            "children": [],
+            "id": "00a67a42-ef30-4e6c-9e8d-0f378c7cf8b8",
+            "type": "set"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "destination": "gdf",
+              "op": {
+                "type": "string",
+                "value": "sfs"
+              }
+            },
+            "children": [],
+            "id": "a16025dc-9b6f-4501-b7de-280d86e13811",
+            "type": "set"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {},
+            "children": [],
+            "id": "cb2824e5-4634-49a3-b0b2-8af67db0c445",
+            "type": "sequence"
+          },
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "destination": "gdf",
+              "op": {
+                "type": "string",
+                "value": "sfs"
+              }
+            },
+            "children": [],
+            "id": "3d97b8cf-e71d-44d6-aab5-b303236723bf",
+            "type": "set"
+          }
+        ],
+        "id": "e43f1aad-7e51-4ab9-ad31-ae676ef992b5",
+        "type": "sequence"
+      },
+      {
+        "activated": true,
+        "metadata": {
+          "label": ""
+        },
+        "properties": {
+          "destination": "gdf",
+          "op": {
+            "type": "string",
+            "value": "sfs"
+          }
+        },
+        "children": [],
+        "id": "1931049e-4801-43d5-a6be-7d564f3e67fd",
+        "type": "set"
+      }
+    ],
     "id": "382df474-9ff4-4824-bcc2-e79e053a46db"
   }
 ]

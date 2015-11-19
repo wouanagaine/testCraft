@@ -24,18 +24,18 @@
             },
             {
               "key": "flo",
-              "type": "string",
+              "type": "real",
               "value": ""
             },
             {
               "key": "int",
-              "type": "string",
-              "value": ""
+              "type": "integer",
+              "value": "0"
             },
             {
               "key": "bool",
-              "type": "string",
-              "value": ""
+              "type": "boolean",
+              "value": "false"
             }
           ],
           "outputParams": []

@@ -19,18 +19,18 @@
           "inputParams": [
             {
               "key": "str",
-              "type": "string",
-              "value": ""
+              "type": "real",
+              "value": "-0.5"
             },
             {
               "key": "flo",
-              "type": "real",
-              "value": ""
+              "type": "integer",
+              "value": "-11"
             },
             {
               "key": "int",
               "type": "integer",
-              "value": "0"
+              "value": "335"
             },
             {
               "key": "bool",

@@ -19,18 +19,18 @@
           "inputParams": [
             {
               "key": "str",
-              "type": "real",
-              "value": "-0.5"
+              "type": "string",
+              "value": "azzet"
             },
             {
               "key": "flo",
-              "type": "integer",
-              "value": "-11"
+              "type": "real",
+              "value": "-11.6"
             },
             {
               "key": "int",
               "type": "integer",
-              "value": "335"
+              "value": "0"
             },
             {
               "key": "bool",

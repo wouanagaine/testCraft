@@ -25,12 +25,12 @@
             {
               "key": "flo",
               "type": "real",
-              "value": "-11.6"
+              "value": "12312.12"
             },
             {
               "key": "int",
               "type": "integer",
-              "value": "0"
+              "value": "20123"
             },
             {
               "key": "bool",

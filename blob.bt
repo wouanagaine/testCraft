@@ -14,14 +14,30 @@
         "metadata": {
           "label": ""
         },
-        "properties": {
-          "name": "",
-          "inputParams": [],
-          "outputParams": []
-        },
-        "children": [],
-        "id": "66412691-dd00-4122-833a-3708457d31d1",
-        "type": "action"
+        "properties": {},
+        "children": [
+          {
+            "activated": true,
+            "metadata": {
+              "label": ""
+            },
+            "properties": {
+              "name": "",
+              "inputParams": [
+                {
+                  "type": "string",
+                  "value": ""
+                }
+              ],
+              "outputParams": []
+            },
+            "children": [],
+            "id": "66412691-dd00-4122-833a-3708457d31d1",
+            "type": "action"
+          }
+        ],
+        "id": "99ad2910-71aa-47d5-aaef-96103efbadbe",
+        "type": "sequence"
       }
     ],
     "id": "5f8d2882-bad2-4cc8-9c71-151ea3a9f40d"

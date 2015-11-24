@@ -25,7 +25,7 @@
             {
               "key": "flo",
               "type": "real",
-              "value": "-12"
+              "value": "1e-17"
             },
             {
               "key": "int",
